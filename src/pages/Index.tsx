@@ -111,7 +111,7 @@ const Index = () => {
       <footer className="py-12 px-4 border-t border-primary/20">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-foreground/60 font-inter">
-            A heartfelt tribute • {new Date().getFullYear()}
+            A heartfelt Farewell • {new Date().getFullYear()}
           </p>
         </div>
       </footer>
